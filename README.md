@@ -1,2 +1,5 @@
 # demo
-type type type 
+t
+y
+p
+e
